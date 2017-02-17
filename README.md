@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/1a521e6a64e842283436572703ec0dd5/s/master "wercker status")](https://app.wercker.com/project/byKey/1a521e6a64e842283436572703ec0dd5)
+[![wercker status](https://app.wercker.com/status/1a521e6a64e842283436572703ec0dd5/m/master "wercker status")](https://app.wercker.com/project/byKey/1a521e6a64e842283436572703ec0dd5)
 
 # GitGram - Open-source app to follow/discover github repositories
 
