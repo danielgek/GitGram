@@ -1,4 +1,3 @@
-[![wercker status](https://app.wercker.com/status/5f5956c77be09889ad43e1193b20f60f/s/master "wercker status")](https://app.wercker.com/project/byKey/5f5956c77be09889ad43e1193b20f60f)
 # GitGram - Open-source app to follow/discover github repositories
 
 Hi! We are GitGram, a team for @shiftappens working on a open-source solution to follow and discover your favorite github repositories. This app aims to revolutionize the way you spend your waiting times. Let's not waste our time, let's learn with it.
@@ -8,11 +7,11 @@ For the app development process we'll use react-native.
 
 ### 1) Clone repository
 
-    $ git clone git@github.com
+    $ git clone git@github.com/FranciscoMSM/GitGram.git
 
 or using HTTPS:
 
-    $ git clone https://github.com
+    $ git clone https://github.com/FranciscoMSM/GitGram.git
     
 ### 2) Install dependencies - Frontend/Node
   Run:
