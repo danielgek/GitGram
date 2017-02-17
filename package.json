@@ -1,0 +1,42 @@
+{
+	"name": "GitGram",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest",
+		"android": "react-native run-android",
+		"ios": "react-native run-ios",
+		"lint": "eslint src"
+	},
+	"dependencies": {
+		"apollo-client": "latest",
+		"babel-eslint": "^7.1.1",
+		"base-64": "^0.1.0",
+		"eslint-plugin-import": "^2.2.0",
+		"eslint-plugin-jsx-a11y": "latest",
+		"eslint-plugin-react": "^6.10.0",
+		"graphql-tag": "latest",
+		"lodash": "latest",
+		"react": "latest",
+		"react-addons-update": "^15.4.2",
+		"react-apollo": "latest",
+		"react-native": "latest",
+		"react-native-infinite-scroll-view": "latest",
+		"react-native-loading-spinner-overlay": "^0.4.1",
+		"react-native-simple-store": "latest",
+		"react-native-swipe-list-view": "^0.3.3",
+		"react-native-router-flux": "latest"
+	},
+	"devDependencies": {
+		"babel-jest": "18.0.0",
+		"babel-preset-react-native": "1.9.1",
+		"eslint": "latest",
+		"eslint-config-airbnb": "latest",
+		"jest": "18.1.0",
+		"react-test-renderer": "~15.4.0"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

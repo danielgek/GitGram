@@ -1,0 +1,3 @@
+rootProject.name = 'GitGram2'
+
+include ':app'
