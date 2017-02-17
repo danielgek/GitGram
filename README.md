@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/1a521e6a64e842283436572703ec0dd5/s/master "wercker status")](https://app.wercker.com/project/byKey/1a521e6a64e842283436572703ec0dd5)
+
 # GitGram - Open-source app to follow/discover github repositories
 
 Hi! We are GitGram, a team for @shiftappens working on a open-source solution to follow and discover your favorite github repositories. This app aims to revolutionize the way you spend your waiting times. Let's not waste our time, let's learn with it.
